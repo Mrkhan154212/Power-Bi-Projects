@@ -23,7 +23,7 @@ Drivetrain & Car Body Type Visuals
 
 ---
 
-> 📱 Social Media Overview – Power BI Project
+📱 Social Media Overview – Power BI Project
 
 This dashboard analyzes social media post performance across platforms like Facebook, Instagram, and Twitter. It measures engagement based on sentiments, post types, and days.
 
