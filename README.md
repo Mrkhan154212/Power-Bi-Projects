@@ -19,11 +19,11 @@ Drivetrain & Car Body Type Visuals
 
 📌 This dashboard helps manufacturers, researchers, and policy-makers understand EV market dynamics.
 
-
+![Image](https://github.com/user-attachments/assets/97b5cc1d-8f8a-41de-968a-26fa97a3e885)
 
 ---
 
-✅ 2. Minor Project: Social Media Overview Dashboard
+📱Minor Project: Social Media Overview Dashboard
 
 > 📱 Social Media Overview – Power BI Project
 
@@ -43,3 +43,5 @@ Performance Comparison across Platforms
 🔧 Tools Used: Power BI, DAX, Power Query
 
 📌 Ideal for social media analysts and marketing teams to optimize posting strategies.
+
+![Image](https://github.com/user-attachments/assets/a038e6f9-72ab-4307-be73-73cde12cf3ef)
