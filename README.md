@@ -1,45 +1,45 @@
-# Power-Bi-Projects
-# ⚡ EV Dashboard - Power BI Project
+📊 EV Dashboard – Power BI Project
 
-This Power BI project presents an interactive dashboard for analyzing electric vehicle (EV) data. It is designed to provide insights into various EV metrics such as battery capacity, acceleration, range, speed, models, and unique brands.
+This project provides an interactive dashboard analyzing Electric Vehicles (EV) across multiple parameters. It offers insights into battery capacity, acceleration, range, top speed, brand diversity, and drivetrain types.
 
-## 📊 Dashboard Highlights
+Key Highlights:
 
-- **Average Battery Capacity (kWh):** 74.04  
-- **Average Acceleration (0-100 km/h):** 6.88 sec  
-- **Average Driving Range (km):** 393.18  
-- **Total Models Analyzed:** 478  
-- **Unique Brands Counted:** 59
+Avg Battery, Acceleration, and Range
 
-## 📈 Visual Insights
+Top Speed by Battery Capacity
 
-- Average range by vehicle segment
-- Top speed vs battery capacity
-- Unique brands by model
-- Cargo volume by drivetrain
-- Acceleration distribution by car body type
+Models & Brands Distribution
 
-## 🧠 Objective
+Segment-wise Range Analysis
 
-The goal of this dashboard is to:
-- Understand EV market trends
-- Compare performance and design aspects across segments
-- Help stakeholders make data-driven decisions
+Drivetrain & Car Body Type Visuals
 
-## 🛠️ Tools Used
 
-- Microsoft Power BI
-- DAX (for measures and calculations)
-- Custom visualizations and filters
+🔧 Tools Used: Power BI, DAX, Data Cleaning in Power Query
 
-## 📁 File
+📌 This dashboard helps manufacturers, researchers, and policy-makers understand EV market dynamics.
 
-- `EV_Dashboard.pbix` - Main Power BI file (contains full dashboard)
 
-## 📌 Author
 
-**Mohammed Miran Khan**  
-  Data Analyst 
-LinkedIn:- https://www.linkedin.com/in/mr-khan1542
+---
 
-https://ibb.co/20CLf8bB
+✅ 2. Minor Project: Social Media Overview Dashboard
+
+> 📱 Social Media Overview – Power BI Project
+
+This dashboard analyzes social media post performance across platforms like Facebook, Instagram, and Twitter. It measures engagement based on sentiments, post types, and days.
+
+Key Highlights:
+
+Comments & Likes by Sentiment
+
+Shares by Post Type & Platform
+
+Posts by Day Distribution
+
+Performance Comparison across Platforms
+
+
+🔧 Tools Used: Power BI, DAX, Power Query
+
+📌 Ideal for social media analysts and marketing teams to optimize posting strategies.
