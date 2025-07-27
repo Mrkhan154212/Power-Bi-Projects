@@ -1,4 +1,4 @@
-📊 EV Dashboard – Power BI Project
+**📊EV Dashboard – Power BI Project**
 
 This project provides an interactive dashboard analyzing Electric Vehicles (EV) across multiple parameters. It offers insights into battery capacity, acceleration, range, top speed, brand diversity, and drivetrain types.
 
@@ -23,7 +23,7 @@ Drivetrain & Car Body Type Visuals
 
 ---
 
-📱 Social Media Overview – Power BI Project
+**📱Social Media Overview – Power BI Project**
 
 This dashboard analyzes social media post performance across platforms like Facebook, Instagram, and Twitter. It measures engagement based on sentiments, post types, and days.
 
